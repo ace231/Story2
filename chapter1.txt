@@ -1,1 +1,2 @@
-This is another story about learning how to use git
+This is another story
+But like a really great story
